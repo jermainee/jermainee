@@ -1,6 +1,8 @@
 ### Projects
 🛋️ [Casalist](https://casalist.de)
+
 💬 [otr.to](https://otr.to)
+
 📝 [writer.md](https://writer.md)
 
 
