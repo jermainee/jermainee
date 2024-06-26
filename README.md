@@ -1,11 +1,11 @@
 ### Projects
-🛋️ [Casalist](https://casalist.de)
+🛋️ [Casalist](https://casalist.de) - Your favorite furniture in one place
 
-🔗 [Nachricht.co](https://nachricht.co)
+🔗 [Nachricht.co](https://nachricht.co) - Send encrypted one-time messages
 
-💬 [otr.to](https://otr.to)
+💬 [otr.to](https://otr.to) - P2P chat in your webbrowser
 
-📝 [writer.md](https://writer.md)
+📝 [writer.md](https://writer.md) - Create SEO optimized blog post drafts using AI
 
 
 <!--
