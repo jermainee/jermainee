@@ -5,9 +5,6 @@
 
 💬 [otr.to](https://otr.to) - P2P chat in your webbrowser
 
-📝 [writer.md](https://writer.md) - Create SEO optimized blog post drafts using AI
-
-
 <!--
 **jermainee/jermainee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
