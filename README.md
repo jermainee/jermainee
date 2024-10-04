@@ -1,6 +1,8 @@
 ### Projects
 🛋️ [Casalist](https://casalist.de) - Your favorite furniture in one place
 
+🏡 [RemoteLove](https://remote.love) - Discover Germany's top remote jobs
+
 🔗 [Nachricht.co](https://nachricht.co) - Send encrypted one-time messages
 
 💬 [otr.to](https://otr.to) - P2P chat in your webbrowser
