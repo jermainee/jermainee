@@ -1,7 +1,7 @@
 ### Projects
 🛋️ [Casalist](https://casalist.de) - Your favorite furniture in one place
 
-🏡 [Remote.love](https://remote.love) - Discover Germany's top remote jobs (exit: FG Venture)
+🏡 [Remote.love](https://remote.love) - Discover Germany's top remote jobs (exit: FG Venture GmbH)
 
 🔗 [Nachricht.co](https://nachricht.co) - Send encrypted one-time messages
 
