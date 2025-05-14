@@ -1,6 +1,6 @@
 ### Projects
 
-🌍 [Heylingo](https://heylingo.de) (beta) - Go multilingual on autopilot
+🌍 [Heylingo](https://heylingo.de) (currently developing) - Go multilingual on autopilot
 
 🛋️ [Casalist.de](https://casalist.de) - Your favorite furniture in one place
 
