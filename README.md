@@ -6,3 +6,5 @@
 🔗 [Nachricht.co](https://nachricht.co) - Send encrypted one-time messages
 
 💬 [otr.to](https://otr.to) - P2P chat in your web browser
+
+🌍 [Heylingo](https://heylingo.de) - Go multilingual on autopilot
