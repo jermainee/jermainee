@@ -7,4 +7,4 @@
 
 💬 [otr.to](https://otr.to) - P2P chat in your web browser
 
-🌍 [Heylingo](https://heylingo.de) - Go multilingual on autopilot
+🌍 [Heylingo](https://heylingo.de) (beta) - Go multilingual on autopilot
