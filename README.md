@@ -11,6 +11,6 @@
 
 💬 [otr.to](https://otr.to) - P2P chat in your web browser
 
-💬 [ideafa.st](https://ideafa.st) - The fastes way to a bad SaaS idea
+💩 [ideafa.st](https://ideafa.st) - The fastes way to a bad SaaS idea
 
 </strong>
