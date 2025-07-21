@@ -11,4 +11,8 @@
 
 💬 [otr.to](https://otr.to) - P2P chat in your web browser
 
+🛜 [send.ax](https://send.ax) - Secure peer-to-peer file transfer
+
+💩 [ideafa.st](https://ideafa.st) - The fastest way to a bad SaaS idea
+
 </strong>
