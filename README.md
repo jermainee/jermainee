@@ -9,7 +9,7 @@
 
 🔗 [Nachricht.co](https://nachricht.co) - Send encrypted one-time messages
 
-💬 [otr.to](https://otr.to) - P2P chat in your web browser
+💬 [otr.to](https://otr.to) - Peer-to-peer chat in your web browser
 
 🛜 [send.ax](https://send.ax) - Secure peer-to-peer file transfer
 
