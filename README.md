@@ -3,7 +3,7 @@
 
 🛋️ [Casalist.de](https://casalist.de) - Your favorite furniture in one place
 
-🌍 [Heylingo.io](https://heylingo.io) - Make your website multilingual in 5 minutes
+🌍 [Heylingo.io](https://heylingo.io) - Make your website multilingual in 5 minutes (in progress)
 
 🏡 [Remote.love](https://remote.love) - Discover Germany's top remote jobs (exit: FG Venture GmbH)
 
