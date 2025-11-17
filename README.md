@@ -11,4 +11,4 @@
 
 🛜 [send.ax](https://send.ax) – Peer-to-peer file transfer in your web browser  
 
-💩 [ideafa.st](https://ideafa.st) – The fastest way to a bad SaaS ide
+💩 [ideafa.st](https://ideafa.st) – The fastest way to a bad SaaS idea
